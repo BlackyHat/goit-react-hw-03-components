@@ -2,7 +2,5 @@
 
 Educational project. Creating by using crate-react-app
 
-1. Social profile component;
-2. Section of statistic;
-3. Friends list;
-4. History of transactions;
+1. Phonebook: add work with localStorage;
+2. Service ImageGallery by Pixabay API: Searchbar, ImageGallery, Loader, Modal;
