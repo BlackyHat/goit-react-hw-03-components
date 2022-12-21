@@ -2,5 +2,4 @@
 
 Educational project. Creating by using crate-react-app
 
-1. Phonebook: add work with localStorage;
-2. Service ImageGallery by Pixabay API: Searchbar, ImageGallery, Loader, Modal;
+Phonebook: add work with localStorage, add Formik, add validation Yup;
