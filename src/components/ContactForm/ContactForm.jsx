@@ -17,7 +17,6 @@ const initialValues = {
 
 class ContactForm extends Component {
   handleSubmit = (values, { resetForm }) => {
-    console.log(values);
     const formdata = values;
     this.props.onSubmit({ id: nanoid(), ...formdata });
     resetForm();
